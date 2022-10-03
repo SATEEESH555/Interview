@@ -1,0 +1,35 @@
+.para{
+    font-size: 30px;
+}
+.para1{
+    color: blue;
+    font-size: 30px;
+}
+.para2{
+    color: white;
+    font-size: 15px;
+    background-color:rgb(2, 2, 38);
+}
+.img1{
+    margin-left: 40px;
+}
+.img2{
+    width: 70%;
+    height: 90%;
+}
+.box{
+    margin-left: 25%;
+}
+table,th,td{
+    border: 2px solid black;
+}
+th{
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    width: 50%;
+}
+td{
+    background-color: chartreuse;
+}
